@@ -15,6 +15,6 @@ The sky is the limit with you`,
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Happi Anni 7M with uuuuu',
     messDesc: 'Một trò nho nhỏ, hi vọng anh sẽ thích hehe',
-    btnAccept: 'YÊU ANH NHIỀU ♥️',
+    btnAccept: 'YÊU ANH NHIỀU ♥️♥️♥️',
     messLink: 'https://www.facebook.com/messages/t/100014188333536' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
