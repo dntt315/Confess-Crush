@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `I don't know
 how you grow flowers insinde of me 
  I wanna love you over and over again
-    btnIntro: 'ẤN VÀO ĐÂY ĐỂ TRẢ LỜI CÂU HỎI',
+    btnIntro: 'ẤN VÀO ĐÂYYYY',
     title: 'Anh có yêu em hôngggg',
     desc: 'Chỉ được chọn một lần thui nên bấm chọn cho kỹ nha anhhhh',
     btnYes: 'Hông bé ơi :<',
