@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Nguyên Khoa',
     introDesc: `I don't know
 how you grow flowers insinde of me 
- I wanna love you over and over again
+ I wanna love you over and over again`,
     btnIntro: 'ẤN VÀO ĐÂYYYY',
     title: 'Anh có yêu em hôngggg',
     desc: 'Chỉ được chọn một lần thui nên bấm chọn cho kỹ nha anhhhh',
