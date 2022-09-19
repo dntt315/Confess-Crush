@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Anh yêu tất cả mọi khoảnh khắc bên em',
     mess: 'Happi Anni 7M with uuuuu',
     messDesc: 'Một trò nho nhỏ, hi vọng anh sẽ thích hehe',
-    btnAccept: 'YÊU ANH NHIỀU ♥️♥️♥️. Nhấn vào để nhận ',
-    messLink: 'https://www.youtube.com/watch?v=FiXNJM1l4Is' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    btnAccept: 'YÊU ANH NHIỀU ♥️♥️♥️ Nhấn vào để nhận ',
+    messLink: 'https://www.youtube.com/watch?v=5YkYwiSJKDI' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
